@@ -29,8 +29,8 @@ const roles = [
 
 const grupos = [
   { id: 1, nombre: "AIG", app: 1 },
-  { id: 2, nombre: "Luis", app: 1 },
-  { id: 2, nombre: "Luis", app: 1 },
+  { id: 2, nombre: "Nova", app: 1 },
+  { id: 2, nombre: "Pazmiño Jativa", app: 1 },
 ];
 
 const clientes = [
